@@ -18,7 +18,7 @@ public class APICall {
 
     private static AppDataAPI api;
 
-    // "https://jsonplaceholder.typicode.com/posts" -> to get all post
+    // "https://jsonplaceholder.typicode.com/posts" -> to get all post 
     private static final String POSTS = "posts";
 
     // "https://jsonplaceholder.typicode.com/posts/3" -> to get third post
